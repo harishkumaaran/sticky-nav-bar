@@ -1,7 +1,7 @@
-# Dropdown Component using css
-This is a Gallery component created using vanilla css. A simple example of the usage of Grid-systems.
+# Sticky Nav-bar using css
+This is a sticky Nav-bar created using vanilla css. A simple example of the usage of positions.
 
-[**click here to view the component**](https://harishkumaaran.github.io/gallery/)
+[**click here to view the component**](https://harishkumaaran.github.io/sticky-nav-bar/)
 &nbsp;
 
 # screenshots 
@@ -18,5 +18,5 @@ This is a Gallery component created using vanilla css. A simple example of the u
 &nbsp;
 
 # Credits
-- This Gallery component is done as a part of my Front end curriculum at Aekam Labs, Coimbatore.
+- This Sticky Nav-bar is done as a part of my Front end curriculum at Aekam Labs, Coimbatore.
 
