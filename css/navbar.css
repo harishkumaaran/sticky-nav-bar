@@ -1,0 +1,59 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: whitesmoke;
+}
+a:hover{
+    font-size: 31px;
+    color: red;
+}
+header{
+    position: sticky;
+    top:0;
+}
+header{
+    margin: 0;
+    padding: 2em;
+    background-color: black;
+    color: whitesmoke;
+}
+header h1{
+    float: left;
+    font-size: 40px;
+}
+.nav{
+    text-align: right;
+}
+.nav a{
+    padding: 20px;
+    margin-left: 40px;
+}
+.sec-1{
+    margin: auto;
+    width: 90%;
+    margin-top: 3em;
+    text-align: center;
+}
+.sec-1 h1{
+    font-size: 40px;
+}
+.sec-1 p{
+    font-size: 28px;
+}
+@media(max-width: 786px){
+    header h1{
+        display: block;
+        text-align: center;
+        float: none;
+        margin-bottom: 2em;
+    }
+    header a{
+        text-align: center;
+        display: block;
+    }
+}
