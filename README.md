@@ -5,8 +5,7 @@ This is a Gallery component created using vanilla css. A simple example of the u
 &nbsp;
 
 # screenshots 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/bb1ba7b6d91e49ff8d05d81d95251284" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+[![Preview](https://cdn.loom.com/sessions/thumbnails/bb1ba7b6d91e49ff8d05d81d95251284-with-play.gif)](https://www.loom.com/share/bb1ba7b6d91e49ff8d05d81d95251284 "Preview")
 
 
 
